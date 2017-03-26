@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SocialLogin</string>
+    <string name="facebook_app_id">997728973704221</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="id">Id:</string>
+    <string name="email">Email:</string>
+    <string name="gender">Gender:</string>
+    <string name="profile_pic_path">Profile Pic Path:</string>
+
+</resources>
